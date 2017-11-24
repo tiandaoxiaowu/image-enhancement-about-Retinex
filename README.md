@@ -8,4 +8,4 @@
   
   2011 A Generalized Unsharp Masking Algorithm(TIP)
   
-  2013-LDR Contrast Enhancement Based on Layered Difference Representation of 2D Histograms
+  2013-LDR Contrast Enhancement Based on Layered Difference Representation of 2D Histograms
