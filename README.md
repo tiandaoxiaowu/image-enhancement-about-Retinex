@@ -4,4 +4,4 @@
   
   2013 Naturalness Preserved Enhancement Algorithm for Non-Uniform Illumination Images (TIP)
   
-  2011 Globally Optimized Linear Windowed Tone Mapping（IEEE Trans. Vis. Comput. Graph)
+  2010 Globally Optimized Linear Windowed Tone Mapping（IEEE Trans. Vis. Comput. Graph)
