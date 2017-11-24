@@ -7,3 +7,5 @@
   2010 Globally Optimized Linear Windowed Tone Mapping（IEEE Trans. Vis. Comput. Graph)
   
   2011 A Generalized Unsharp Masking Algorithm(TIP)
+  
+  2013-LDR Contrast Enhancement Based on Layered Difference Representation of 2D Histograms
