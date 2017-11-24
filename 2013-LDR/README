@@ -1,0 +1,80 @@
+-------------------------------------------------------------------
+
+						LDR demo software
+				Public release v1.0 (4 Nov. 2013)
+
+-------------------------------------------------------------------
+
+Copyright (c) 2010-2013 Korea University. All rights reserved.
+This software can be used only for research purposes.
+
+Authors:            Chulwoo Lee
+					Chul Lee
+					Chang-Su Kim
+
+
+LDR web page:		http://mcl.korea.ac.kr/~chulwoo/research/LDR/
+
+
+-------------------------------------------------------------------
+ Contents
+-------------------------------------------------------------------
+
+The package comprises these functions
+
+式成式 demo.m			: Compare LDR to the other CE algorithms
+ 戍式 135069.jpg		: test image for demo.m
+ 戍式 yuv2rgb.m		: convert yuv to rgb
+ 戍式 rgb2yuv.m		: convert rgb to yuv
+ 戍式 QM				: Quality metric
+ 戌式成式 CE (directory)
+   戍式 HE.m			: Histogram Equalization
+   戍式 WAHE.m		: Weighted Approximated Histogram Equalization
+   戍式 CVC.m			: Contextual and Variational Contrast enhancement
+   戌式 LDR.m			: Layered Difference Representation [1]
+
+
+-------------------------------------------------------------------
+ Installation
+-------------------------------------------------------------------
+
+式 Unzip LDR.zip
+式 Run demo.m
+
+
+-------------------------------------------------------------------
+ Requirements
+-------------------------------------------------------------------
+
+式 Matlab v.7.1 or later with installed:
+  -- Image Processing Toolbox
+
+
+-------------------------------------------------------------------
+ Change log
+-------------------------------------------------------------------
+
+式成式 v1.0  (4 Nov. 2013)
+ 戌式 Initial release
+
+
+-------------------------------------------------------------------
+ References
+-------------------------------------------------------------------
+
+Please cite this paper if you use this software in a publication.
+
+[1] C. Lee, C. Lee, and C.-S. Kim, ※Contrast enhancement based on 
+layered difference representation of 2D histograms,§ IEEE Transactions 
+on Image Processing, vol. 22, no. 12, pp. 5372-5384, Dec. 2013.
+
+
+-------------------------------------------------------------------
+ Feedback
+-------------------------------------------------------------------
+
+If you have any comment, suggestion, or question, please do
+contact Chulwoo Lee at chulwoo(at)mcl(dot)korea(dot)ac(dot)kr
+
+
+
