@@ -9,3 +9,5 @@
   2011 A Generalized Unsharp Masking Algorithm(TIP)
   
   2013-LDR Contrast Enhancement Based on Layered Difference Representation of 2D Histograms(TIP)
+  
+  2016 A fusion-based enhancing method for weakly illuminated images
