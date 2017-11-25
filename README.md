@@ -10,4 +10,4 @@
   
   2013-LDR Contrast Enhancement Based on Layered Difference Representation of 2D Histograms(TIP)
   
-  2016 A fusion-based enhancing method for weakly illuminated images
+  2016 A fusion-based enhancing method for weakly illuminated images(Signal Processing)
